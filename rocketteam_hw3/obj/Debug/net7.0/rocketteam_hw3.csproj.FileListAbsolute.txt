@@ -1,0 +1,15 @@
+/Users/shihminhung/Projects/rocketteam_hw3/rocketteam_hw3/bin/Debug/net7.0/rocketteam_hw3
+/Users/shihminhung/Projects/rocketteam_hw3/rocketteam_hw3/bin/Debug/net7.0/rocketteam_hw3.deps.json
+/Users/shihminhung/Projects/rocketteam_hw3/rocketteam_hw3/bin/Debug/net7.0/rocketteam_hw3.runtimeconfig.json
+/Users/shihminhung/Projects/rocketteam_hw3/rocketteam_hw3/bin/Debug/net7.0/rocketteam_hw3.dll
+/Users/shihminhung/Projects/rocketteam_hw3/rocketteam_hw3/bin/Debug/net7.0/rocketteam_hw3.pdb
+/Users/shihminhung/Projects/rocketteam_hw3/rocketteam_hw3/obj/Debug/net7.0/rocketteam_hw3.csproj.AssemblyReference.cache
+/Users/shihminhung/Projects/rocketteam_hw3/rocketteam_hw3/obj/Debug/net7.0/rocketteam_hw3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shihminhung/Projects/rocketteam_hw3/rocketteam_hw3/obj/Debug/net7.0/rocketteam_hw3.AssemblyInfoInputs.cache
+/Users/shihminhung/Projects/rocketteam_hw3/rocketteam_hw3/obj/Debug/net7.0/rocketteam_hw3.AssemblyInfo.cs
+/Users/shihminhung/Projects/rocketteam_hw3/rocketteam_hw3/obj/Debug/net7.0/rocketteam_hw3.csproj.CoreCompileInputs.cache
+/Users/shihminhung/Projects/rocketteam_hw3/rocketteam_hw3/obj/Debug/net7.0/rocketteam_hw3.dll
+/Users/shihminhung/Projects/rocketteam_hw3/rocketteam_hw3/obj/Debug/net7.0/refint/rocketteam_hw3.dll
+/Users/shihminhung/Projects/rocketteam_hw3/rocketteam_hw3/obj/Debug/net7.0/rocketteam_hw3.pdb
+/Users/shihminhung/Projects/rocketteam_hw3/rocketteam_hw3/obj/Debug/net7.0/rocketteam_hw3.genruntimeconfig.cache
+/Users/shihminhung/Projects/rocketteam_hw3/rocketteam_hw3/obj/Debug/net7.0/ref/rocketteam_hw3.dll

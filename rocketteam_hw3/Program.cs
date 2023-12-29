@@ -942,7 +942,7 @@
 //int timeEat = 1;
 //for (int i = 0; i <= timePeriod; i+=5)
 //{
-//	Console.WriteLine($"Eric於{i}分鐘時吃第{timeEat}次漢堡");
+//	Console.WriteLine($"Eric於{i}分鐘時吃第{timeEat}次『39元』漢堡");
 //	timeEat++;
 //}
 
@@ -968,38 +968,39 @@
 // Q:系統隨機產生一個數字，讓使用者數入數字，直到猜中才離開程式！
 // 猜錯時，要提示是比較大還是比較小
 
-//使用random class
-Random rnd = new Random();
-int randomNumber = rnd.Next(1,100);
-int userinput;
+////使用random class
+//Random rnd = new Random();
+//int randomNumber = rnd.Next(1,100);
+//int userinput;
 
-//由於不確定運作次數，使用while loop
-//怕userinput剛好等於randomNumber因此使用do while loop
+////由於不確定運作次數，使用while loop
+////怕userinput剛好等於randomNumber因此使用do while loop
 
-do
-{
-	Console.WriteLine("");
-Console.WriteLine("請輸入數字1~100");
-userinput = Convert.ToInt32(Console.ReadLine());
-if (userinput == randomNumber)
-{
-	Console.WriteLine($"答案為{randomNumber}");
-	break;
-}
-else if (userinput < randomNumber)
-{
-	Console.WriteLine("答案比較大");
-}
+//do
+//{
+//	Console.WriteLine("");
+//Console.WriteLine("請輸入數字1~100");
+//userinput = Convert.ToInt32(Console.ReadLine());
+//if (userinput == randomNumber)
+//{
+//	Console.WriteLine($"答案為{randomNumber}");
+//	break;
+//}
+//else if (userinput < randomNumber)
+//{
+//	Console.WriteLine("答案比較大");
+//}
 
-else
-{
-	Console.WriteLine("答案比較小");
-}
-}
+//else
+//{
+//	Console.WriteLine("答案比較小");
+//}
+//}
 
-while (userinput != randomNumber) ;
-
-
+//while (userinput != randomNumber) ;
 
 
 
+
+
+//
